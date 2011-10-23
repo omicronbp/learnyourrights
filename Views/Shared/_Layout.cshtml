@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+@(Html.Telerik().StyleSheetRegistrar().DefaultGroup(group => group
+    .Add("telerik.common.css")
+    .Add("telerik.black.css")
+    //.Add("960.css")
+    .Add("reset.css")
+    .Add("text.css")
+    .Combined(true)
+    .Compress(true))
+)
+
+<style type="text/css">
+<!--
+#wrapper {
+	background: #FFF;
+	text-align: left;
+	margin: 0 auto;
+	width: 878px;
+	float: none;
+	font-size: 10px;
+}
+-->
+</style>
+<script src="@Url.Content("~/Scripts/swfobject_modified.js")" type="text/javascript"></script>
+<script type="text/javascript">
+    function MM_preloadImages() { //v3.0
+        var d = document; if (d.images) {
+            if (!d.MM_p) d.MM_p = new Array();
+            var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; } 
+        }
+    }
+    
+</script>
+</head>
+
+<body>
+    <div class="page">
+        <div id="wrapper">
+            <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="878" height="150">
+            <param name="movie" value="@Url.Content("~/Content/Images/mcgrathflash.swf")" />
+            <param name="quality" value="high" />
+            <param name="wmode" value="opaque" />
+            <param name="swfversion" value="6.0.65.0" />
+            <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+            <!--[if !IE]>-->
+            <object type="application/x-shockwave-flash" data="@Url.Content("~/Content/Images/mcgrathflash.swf")" width="878" height="150">
+                <!--<![endif]-->
+                <param name="quality" value="high" />
+                <param name="wmode" value="opaque" />
+                <param name="swfversion" value="6.0.65.0" />
+                <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+                <div>
+                <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+                <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
+                </div>
+                <!--[if !IE]>-->
+            </object>
+            <!--<![endif]-->
+            </object>
+        </div>
+@*
+        <div id="header">
+            <div id="title">
+                <h1>My MVC Application</h1>
+            </div>
+            
+            @(Html.Telerik().Menu()
+                    .Name("menu")
+                    .Items(menu => {
+                        menu.Add().Text("Home").Action("Index", "Home");
+                        menu.Add().Text("About").Action("About", "Home");
+                    }))
+        </div>*@
+        <div id="menu">
+            <img src="@Url.Content("~/Content/Images/home1.gif")" width="122" height="41" />
+            <img src="@Url.Content("~/Content/Images/firms1.gif")" width="127" height="41" />
+            <img src="@Url.Content("~/Content/Images/attorneys1.gif")" width="172" height="41" />
+            <img src="@Url.Content("~/Content/Images/offices1.gif")" width="146" height="41" />
+            <img src="@Url.Content("~/Content/Images/verdicts1.gif")" width="311" height="41" />
+        </div>
+        <div id="header">
+            <img src="@Url.Content("~/content/Images/form.gif")" width="878" height="381" />
+        </div>
+        <div id="middle">
+            <div id="mainbody">
+                <div id="maincontent">
+                    @RenderBody()
+                </div>
+            </div>
+            <div id="sidebar">
+                <img src="@Url.Content("~/Content/Images/mcgrath1_13.gif")" width="285" height="90" />
+                <img src="@Url.Content("~/Content/Images/aut1.gif")" width="282" height="39" />
+                <img src="@Url.Content("~/Content/Images/truck1.gif")" width="282" height="38" />
+                <img src="@Url.Content("~/Content/Images/workers1.gif")" width="282" height="41" />
+                <img src="@Url.Content("~/Content/Images/medical1.gif")" width="282" height="39" />
+                <img src="@Url.Content("~/Content/Images/wrongful1.gif")" width="282" height="39" />
+                <img src="@Url.Content("~/Content/Images/nursing1.gif")" width="282" height="42" />            
+            </div>
+            <div id="locations">
+                Locations here
+            </div>
+        </div>
+    </div>
+    @(Html.Telerik().ScriptRegistrar().DefaultGroup(group => group.Combined(true).Compress(true)))
+</body>
+<script type="text/javascript">
+<!--
+    swfobject.registerObject("FlashID");
+//-->
+</script>
+</html>

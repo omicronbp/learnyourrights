@@ -1,0 +1,20 @@
+﻿@model site.Models.AttorneyAdmission
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>AttorneyAdmission</legend>
+
+    <div class="display-label">Year</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Year)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

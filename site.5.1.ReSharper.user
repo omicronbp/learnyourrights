@@ -1,0 +1,168 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:HomeController.cs" caret="444" fromTop="16" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:SitePropertyController.cs" caret="456" fromTop="19" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:SiteProperty/f:Index.cshtml" caret="424" fromTop="25" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:SiteProperty.cs" caret="374" fromTop="14" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:PracticeArea.cs" caret="11" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:Birthplace.cs" caret="11" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:Attorney.cs" caret="1219" fromTop="36" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:Admission.cs" caret="11" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Scripts/f:swfobject_modified.js" caret="1029" fromTop="30" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:960.css" caret="2" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:LearnYourRightsDb.cs" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:AttorneyController.cs" caret="207" fromTop="9" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:AdmissionController.cs" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:AttorneyAdmissionController.cs" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:EducationController.cs" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:AttorneyEducationController.cs" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:BirthplaceController.cs" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Controllers/f:PracticeAreasController.cs" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:Education.cs" caret="180" fromTop="6" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Scripts/f:jquery.validate.unobtrusive.min.js" caret="140" fromTop="4" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Scripts/f:jquery.validate.min.js" caret="678" fromTop="18" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/f:Global.asax.cs" caret="1034" fromTop="33" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:AttorneyEducation.cs" caret="249" fromTop="8" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Attorney/f:Details.cshtml" caret="582" fromTop="25" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:AttorneyAdmission.cs" caret="250" fromTop="9" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Shared/f:_Layout.cshtml" caret="3770" fromTop="25" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="2580" fromTop="32" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Attorney/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="235" fromTop="9" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Home/f:Index.cshtml" caret="97" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="6217" fromTop="46" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="2351" fromTop="6" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="2635" fromTop="12" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="2883" fromTop="16" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="3192" fromTop="22" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="3473" fromTop="28" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="3758" fromTop="34" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="4046" fromTop="40" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="6645" fromTop="24" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="8336" fromTop="40" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="8850" fromTop="42" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Attorney/f:Details.cshtml" caret="719" fromTop="33" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Attorney/f:Details.cshtml" caret="719" fromTop="29" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="958" fromTop="24" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="533" fromTop="14" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Shared/f:_Layout.cshtml" caret="1036" fromTop="35" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="714" fromTop="18" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Shared/f:_Layout.cshtml" caret="1041" fromTop="33" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="2577" fromTop="22" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="2670" fromTop="28" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Shared/f:_Layout.cshtml" caret="4662" fromTop="36" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="2427" fromTop="30" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="2312" fromTop="22" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="2277" fromTop="17" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Shared/f:_Layout.cshtml" caret="3770" fromTop="25" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Content/f:Site.css" caret="2855" fromTop="46" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="2199" fromTop="27" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="2039" fromTop="23" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Models/f:DbInitializer.cs" caret="529" fromTop="16" />
+      <File id="88339B7F-5873-4883-A909-BF553E567E8E/d:Views/d:Home/f:Index.cshtml" caret="78" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="6" />
+      <Item value="virtual" priority="2" />
+      <Item value="string" priority="2" />
+      <Item value="var" priority="9" />
+      <Item value="new" priority="17" />
+      <Item value="PropertyName" priority="1" />
+      <Item value="PropertyText" priority="0" />
+      <Item value="SiteProperty`0" priority="0" />
+      <Item value="LearnYourRightsDb" priority="1" />
+      <Item value="_db" priority="1" />
+      <Item value="int" priority="2" />
+      <Item value="DropCreateDatabaseIfModelChanges" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="LearnYourRightsDb`0" priority="1" />
+      <Item value="override" priority="0" />
+      <Item value="context" priority="13" />
+      <Item value="SiteProperty" priority="0" />
+      <Item value="DbInitializer`0" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="Test" priority="0" />
+      <Item value="Attorney" priority="0" />
+      <Item value="ContextStaticAttribute`0" priority="0" />
+      <Item value="PracticeArea" priority="1" />
+      <Item value="Name" priority="4" />
+      <Item value="Description" priority="1" />
+      <Item value="Admission" priority="1" />
+      <Item value="Link" priority="1" />
+      <Item value="Education" priority="1" />
+      <Item value="AttorneyAdmission" priority="0" />
+      <Item value="floridaBarMcGrath" priority="1" />
+      <Item value="AttorneyId" priority="0" />
+      <Item value="Year" priority="0" />
+      <Item value="ncBarMcGrath" priority="1" />
+      <Item value="AttorneyEducation`0" priority="1" />
+      <Item value="Degree" priority="1" />
+      <Item value="fcslMcGrath" priority="1" />
+      <Item value="unfMcGrath" priority="1" />
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+      <Item value="MiddleInitial" priority="0" />
+      <Item value="Birthplace" priority="1" />
+      <Item value="Birthplace`0" priority="0" />
+      <Item value="jacksonville" priority="1" />
+      <Item value="Admissions" priority="0" />
+      <Item value="ICollection" priority="0" />
+      <Item value="Admission`0" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="HashSet" priority="3" />
+      <Item value="AttorneyAdmission`0" priority="0" />
+      <Item value="aaFloridaBarMcGrath" priority="1" />
+      <Item value="aaNcBarMcGrath" priority="1" />
+      <Item value="Educations" priority="0" />
+      <Item value="aeFcslMcGrath" priority="1" />
+      <Item value="aeUnfMcGrath" priority="1" />
+      <Item value="PracticeAreas" priority="0" />
+      <Item value="PracticeArea`0" priority="0" />
+      <Item value="personalInjury" priority="1" />
+      <Item value="autoAccidents" priority="1" />
+      <Item value="truckingAccidents" priority="1" />
+      <Item value="wrongfulDeath" priority="1" />
+      <Item value="workersComp" priority="0" />
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:site.Models.LearnYourRightsDb">
+      <Item value="SiteProperties" priority="2" />
+      <Item value="Attorneys" priority="0" />
+      <Item value="PracticeAreas" priority="2" />
+      <Item value="Admissions" priority="1" />
+      <Item value="Educations" priority="2" />
+      <Item value="AttorneyAdmissions" priority="1" />
+      <Item value="AttorneyEducations" priority="0" />
+      <Item value="Birthplaces" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.Entity.Database">
+      <Item value="SetInitializer`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="Add`0" priority="9" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
